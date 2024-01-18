@@ -1,2 +1,2 @@
 # eportfolio
-e Portfolio for school and work
+e Portfolio website for school and work
